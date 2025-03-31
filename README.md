@@ -1,4 +1,4 @@
-# 𝙔𝙪𝙜𝙖𝙣𝙙𝙝𝙖𝙧𝙖  
+# Hey, I'm 𝙔𝙪𝙜𝙖𝙣𝙙𝙝𝙖𝙧𝙖 👋🏻
 *Turning data into visual understanding*
 
 ### About Me  
