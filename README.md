@@ -59,8 +59,8 @@ Exploratory Data Analysis (EDA), statistical trend detection, geospatial mapping
 
 ---
 ### 🌿 Beyond the Numbers  
-When I'm not wrangling data:  
-• You'll find me knee-deep in **climate datasets** - mapping the disconnect between what we take and what we need  
+When I'm not wrangling data you'll find me:  
+• Knee-deep in **climate and sustainability datasets** - mapping the disconnect between what we take and what we need  
 • On a **roadtrip through quiet towns** - my reset button for that eagles-eye view of what matters  
 • **Becoming** - closing the gap between my values and my velocity  
 
