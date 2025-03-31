@@ -39,13 +39,23 @@ I transform abstract data into interactive insight—because true understanding 
 
 ### 🔧 Skills  
 **Visualization:**  
-Python (`matplotlib`, `seaborn`, `Plotly`, `Streamlit`, `Dash`), Tableau, Power BI  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+  - ![Seaborn](https://img.shields.io/badge/Seaborn-4B77BE?style=flat)
+  - ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+  - ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+  - ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=dash&logoColor=white)
+  - ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 
 **Analysis:**  
-Exploratory Data Analysis (EDA), statistical trend detection, geospatial mapping (`Folium`, `Plotly`)  
+Exploratory Data Analysis (EDA), statistical trend detection, geospatial mapping  
 
 **Data Wrangling:**  
-SQL, Excel, `pandas`  
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 
 ---
 ### 🌿 Beyond the Numbers  
