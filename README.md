@@ -23,17 +23,29 @@ I transform abstract data into interactive insight—because true understanding 
 #### **Energy & Environmental Dashboard** | *Python, Streamlit*  
 - Interactive visualizations of renewables adoption, climate trends, and emissions.  
 - Dynamic filters and multi-layered analysis for granular exploration.  
-[Code](https://github.com/Yugandhara-Yeolekar/Energy-Environment-Dashboard) | [View Dashboard](https://energy-environment-dashboard.streamlit.app/)  
+[View Project](https://github.com/Yugandhara-Yeolekar/Energy-Environment-Dashboard) | [View Dashboard](https://energy-environment-dashboard.streamlit.app/)  
 
 #### **Economic Inequality: SQL EDA** | *SQL*  
 - Cleaned and analyzed datasets on wealth concentration, income deciles, and inequality metrics.  
 - Structured queries to compare disparities across regions and time periods.  
-[Code](https://github.com/Yugandhara-Yeolekar/Economic-Inequality-SQL)  
+[View Project](https://github.com/Yugandhara-Yeolekar/Economic-Inequality-SQL)  
 
 #### **Economic Inequality Dashboard** | *Tableau*  
 - Visualized Gini coefficients, income/consumption distributions, and decile comparisons.  
 - Designed for intuitive exploration of complex inequality metrics.  
-[Code](https://github.com/Yugandhara-Yeolekar/Economic-Inequality-Tableau) | [View Dashboard](https://public.tableau.com/app/profile/yugandhara.yeolekar/viz/EconomicInequality/EconomicInequality)  
+[View Project](https://github.com/Yugandhara-Yeolekar/Economic-Inequality-Tableau) | [View Dashboard](https://public.tableau.com/app/profile/yugandhara.yeolekar/viz/EconomicInequality/EconomicInequality)
+
+#### **Airbnb Profitability Insights - Amsterdam** | *Power BI*
+
+-   Estimated annual revenue for listings based on pricing data.
+-   Built interactive dashboard to guide real estate investment decisions.\
+[View Project](https://github.com/Yugandhara-Yeolekar/Airbnb-Profitability-Insights-Amsterdam-Power-BI)
+
+#### **Coffee Sales Dashboard** | *Excel*
+
+-   Developed a dynamic dashboard using XLOOKUP, pivot tables, and charts.
+-   Visualized time-based sales trends, top customers, and geographic breakdowns.\
+[View Project](https://github.com/Yugandhara-Yeolekar/Coffee_Sales_Dashboard-Excel)
 
 ---
 
