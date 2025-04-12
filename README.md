@@ -25,7 +25,7 @@ I transform abstract data into interactive insight—because true understanding 
 - Dynamic filters and multi-layered analysis for granular exploration.  
 [View Project](https://github.com/Yugandhara-Yeolekar/Energy-Environment-Dashboard) | [View Dashboard](https://energy-environment-dashboard.streamlit.app/)  
 
-#### **Economic Inequality: SQL EDA** | *SQL*  
+#### **Economic Inequality: EDA** | *SQL*  
 - Cleaned and analyzed datasets on wealth concentration, income deciles, and inequality metrics.  
 - Structured queries to compare disparities across regions and time periods.  
 [View Project](https://github.com/Yugandhara-Yeolekar/Economic-Inequality-SQL)  
