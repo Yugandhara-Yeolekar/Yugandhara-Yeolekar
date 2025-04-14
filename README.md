@@ -20,7 +20,7 @@ I transform abstract data into interactive insight—because true understanding 
 
 ### 🚀 Projects  
 
-#### **Energy & Environmental Dashboard** | *Python, Streamlit*  
+#### **Energy & Environment Dashboard** | *Python, Streamlit*  
 - Interactive visualizations of renewables adoption, climate trends, and emissions.  
 - Dynamic filters and multi-layered analysis for granular exploration.  
 [View Project](https://github.com/Yugandhara-Yeolekar/Energy-Environment-Dashboard) | [View Dashboard](https://energy-environment-dashboard.streamlit.app/)  
